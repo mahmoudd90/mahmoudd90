@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Abdel Aziz
 - 👀 I’m interested in Drilling Engineering, Programming & Data analysis.
-- 🌱 I’m currently learning data analysis...
+- 🌱 I’m currently learning data analysis... I hope to implement it in the oil field. I'm sure this will help alot in this field!
 - 💞️ I’m looking to share knowledge and find learning mates ...
 - 📫 How to reach me? You can send me an email on mah.aziz90@yahoo.com 
 
